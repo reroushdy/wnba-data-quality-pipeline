@@ -1,0 +1,4 @@
+row,column,severity,code,message
+,player_name,ERROR,MISSING_COLUMN,Missing required column: player_name
+,points_per_game,ERROR,MISSING_COLUMN,Missing required column: points_per_game
+,games_played,ERROR,MISSING_COLUMN,Missing required column: games_played
