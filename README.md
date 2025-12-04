@@ -91,6 +91,8 @@ wnba_data_pipeline/
 ├── requirements.txt
 └── README.md
 
+---
+
 ## 🧪 Tests
 Unit tests are implemented with pytest and cover:
 	•	Cleaning behavior (DataCleaner)
@@ -99,6 +101,8 @@ Unit tests are implemented with pytest and cover:
 	•	Visualization outputs (basic existence, not aesthetics)
 	•	Extraction error handling
 	•	Report generation (PDF file exists)
+
+---
 
 ## 🔮 Possible Enhancements (Future Work)
 	•	Add a data quality score (0–100) based on:
@@ -109,6 +113,8 @@ Unit tests are implemented with pytest and cover:
 	•	Add database integration (e.g., load cleaned data into MySQL/PostgreSQL).
 	•	Containerize with Docker for reproducible environments.
 	•	Build a dashboard using Streamlit / Power BI / Tableau.
+
+---
 
 ## 🎯 Why This Project Matters
 This project demonstrates:
