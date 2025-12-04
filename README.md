@@ -90,10 +90,12 @@ wnba_data_pipeline/
 ├── pipeline.py      # Main orchestration script
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
 ## 🧪 Tests
+
 Unit tests are implemented with pytest and cover:
 	•	Cleaning behavior (DataCleaner)
 	•	Validation rules (DataValidator)
@@ -105,6 +107,7 @@ Unit tests are implemented with pytest and cover:
 ---
 
 ## 🔮 Possible Enhancements (Future Work)
+
 	•	Add a data quality score (0–100) based on:
 	•	validation errors
 	•	warnings
@@ -117,6 +120,7 @@ Unit tests are implemented with pytest and cover:
 ---
 
 ## 🎯 Why This Project Matters
+
 This project demonstrates:
 	•	How a QA / Data Quality Engineer thinks about data robustness.
 	•	How to combine:
